@@ -1,6 +1,6 @@
 # Calculator App
 
-Developer using Flutter framework
+Developed using Flutter framework
 
 ## Preview
 
